@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "嘘つき",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-03-06T13:38:53.085388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嘘つき - Acoustic ver.",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_嘘つき_-_Acoustic_ver._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "嘘つき、嘘つき。",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/02_嘘つき、嘘つき。_May_J..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "嘘つき",
+      "artist": "KOHH",
+      "has_synced": true,
+      "path": "select/03_嘘つき_KOHH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "嘘つき",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/04_嘘つき_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "嘘つき",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/05_嘘つき_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "嘘つき",
+      "artist": "Abe Natsumi",
+      "has_synced": false,
+      "path": "select/06_嘘つき_Abe_Natsumi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "嘘つき - Usotsuki",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/07_嘘つき_-_Usotsuki_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "嘘つき",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/08_嘘つき_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "嘘つき",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/09_嘘つき_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "嘘つき",
+      "artist": "Mao Abe",
+      "has_synced": false,
+      "path": "select/10_嘘つき_Mao_Abe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "レッスン6 エピローグ　嘘つき♡",
+      "artist": "あまがみドロップ",
+      "has_synced": true,
+      "path": "select/11_レッスン6_エピローグ_嘘つき♡_あまがみドロップ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘つき",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_嘘つき_あたらよ.txt"
+    }
+  ]
+}
